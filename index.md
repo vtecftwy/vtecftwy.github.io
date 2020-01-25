@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This site is not constructed yet
 
 You can use the [editor on GitHub](https://github.com/vtecftwy/vtecftwy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
